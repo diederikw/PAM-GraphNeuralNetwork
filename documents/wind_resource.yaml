@@ -1,0 +1,10 @@
+uuid: f40a49d3-d129-4e10-b3c3-e3fc832f7c5d
+name: IEA Wind Task 37 plant case studies wind resource
+reference_name: Single1
+reference_height: 110.
+turbulence_intensity: 0.075
+wind_rose:
+  directions: [0]
+  direction_pmf: [1]
+  speeds: [9.8]
+  speed_cpmf: [[1]]
